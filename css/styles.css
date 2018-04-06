@@ -300,6 +300,10 @@ h2 {
     padding: 20px 40px 20px;
 }
 
+#reviews-container h3 {
+    color: #d98310;
+}
+
 #reviews-container {
     background-color: #1d2731;
 }
